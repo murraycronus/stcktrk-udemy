@@ -13,6 +13,12 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+gem 'devise'
+
+gem 'twitter-bootstrap-rails'
+
+gem 'devise-bootstrap-views', '~> 0.0.9'
+
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 gem 'will_paginate', '~> 3.1'
